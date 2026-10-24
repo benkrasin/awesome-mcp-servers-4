@@ -1071,6 +1071,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Kagi Search](https://github.com/kagisearch/kagimcp) - A Model Context Protocol (MCP) server for Kagi search.
 - [Worklittle Jobs](https://github.com/worklittle/jobs-mcp) - Search 4M+ jobs by visa, salary, and distance; swipe to apply and save roles to a Worklittle account. Remote OAuth MCP at `https://mcp.worklittle.com/`; [setup docs](https://docs.worklittle.com/mcp); support@worklittle.com.
 - [Search1API MCP](https://github.com/fatwang2/search1api-mcp) - A Model Context Protocol (MCP) server offering web search, news search, content extraction, and deep reasoning capabilities via Search1API
+- [ATS Jobs MCP](https://github.com/benkrasin/ats-jobs-mcp) - Lists and filters a company's open jobs from its public Greenhouse, Lever or Ashby job board (official APIs, no key), plus optional keyword search across 16,000+ company career boards with salary filters.
 - [DevRev](https://github.com/kpsunil97/devrev-mcp-server) - Searches and retrieves information from DevRev using its APIs
 - [Discourse](https://github.com/AshDevFr/discourse-mcp-server) - Searches Discourse forum posts via the Model Context Protocol (MCP)
 - [DuckDuckGo MCP Search Server](https://github.com/zhsama/duckduckgo-mpc-server/) - Provides DuckDuckGo web search functionality via the Model Context Protocol
